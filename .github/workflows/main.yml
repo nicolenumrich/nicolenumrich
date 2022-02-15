@@ -1,9 +1,10 @@
 name: Update this repo's README
 
 on:
-  schedule:
+ push:
+ # schedule:
     # Once a day at 8 AM
-    - cron: 0 8 * * *
+   # - cron: 0 8 * * *
 
 jobs:
   update:
@@ -11,5 +12,5 @@ jobs:
     steps:
       - uses: JasonEtco/rss-to-readme@v1
         with:
-          feed-url: https://jasonet.co/rss.xml
+          feed-url: https://github.blog/feed/
           readme-section: feed
