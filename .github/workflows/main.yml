@@ -12,5 +12,5 @@ jobs:
     steps:
       - uses: JasonEtco/rss-to-readme@v1
         with:
-          feed-url: https://github.blog/feed/
+          feed-url: https://github.blog/tag/github-actions/feed/
           readme-section: feed
