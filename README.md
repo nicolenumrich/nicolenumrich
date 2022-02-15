@@ -3,9 +3,9 @@
 ### Example RSS feed:
 
 <!--START_SECTION:feed-->
-* [Remix first impressions](https:&#x2F;&#x2F;jasonet.co&#x2F;posts&#x2F;remix-first-impressions&#x2F;)
-* [On &quot;Spike work&quot;](https:&#x2F;&#x2F;jasonet.co&#x2F;posts&#x2F;on-spike-work&#x2F;)
-* [Assorted thoughts on documentation](https:&#x2F;&#x2F;jasonet.co&#x2F;posts&#x2F;thoughts-on-docs&#x2F;)
-* [On &quot;lurking&quot;](https:&#x2F;&#x2F;jasonet.co&#x2F;posts&#x2F;on-lurking&#x2F;)
-* [Probot App or GitHub Action? (Updated)](https:&#x2F;&#x2F;jasonet.co&#x2F;posts&#x2F;probot-app-or-github-action-v2&#x2F;)
+* [The GitHub Stars in our eyes ⭐️](https:&#x2F;&#x2F;github.blog&#x2F;2022-02-15-the-github-stars-in-our-eyes&#x2F;)
+* [Announcing the 2022 MLH Fellowship Cohort, powered by GitHub](https:&#x2F;&#x2F;github.blog&#x2F;2022-02-15-announcing-2022-mlh-fellowship-cohort-powered-by-github&#x2F;)
+* [Include diagrams in your Markdown files with Mermaid](https:&#x2F;&#x2F;github.blog&#x2F;2022-02-14-include-diagrams-markdown-files-mermaid&#x2F;)
+* [Getting started with project planning on GitHub](https:&#x2F;&#x2F;github.blog&#x2F;2022-02-11-getting-started-with-project-planning-on-github&#x2F;)
+* [How to start using reusable workflows with GitHub Actions](https:&#x2F;&#x2F;github.blog&#x2F;2022-02-10-using-reusable-workflows-github-actions&#x2F;)
 <!--END_SECTION:feed-->
