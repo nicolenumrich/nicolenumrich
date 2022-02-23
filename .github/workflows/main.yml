@@ -1,7 +1,8 @@
 name: Update this repo's README
 
 on:
- schedule:
+  # push
+  schedule:
    # Once a day at 8 AM
    - cron: 0 8 * * *
 
